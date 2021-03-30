@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 * * *
 * Study docker
+* Study Vue.js
+* Study Flutter
 * Start 1day 1commit
 * * *
 <!--
