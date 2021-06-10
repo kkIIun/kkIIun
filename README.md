@@ -12,7 +12,7 @@
 * * *
 * Study React
 * Study Flutter
-* Start 1day 1commit(23days)
+* Start 1day 1commit(4days)
 * * *
 <!--
 **kkIIun/kkIIun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
