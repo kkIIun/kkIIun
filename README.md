@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 -->
 ![kkIIyn's Github Stats](https://github-readme-stats.vercel.app/api?username=kkIIun&show_icons=true&theme=dark)
 ![Top's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkIIun&layout=compact)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjd4177)](https://solved.ac/rlwjd4177)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjd4177)](https://solved.ac/rlwjd4177)
 
