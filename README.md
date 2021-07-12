@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 * * *
 * Study React
-* Study Flutter
-* Start 1day 1commit(12days)
+* Study nodejs
+* Start algorithm
 * * *
 <!--
 **kkIIun/kkIIun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
