@@ -12,7 +12,7 @@
 * * *
 * Study React
 * Study nodejs
-* Start algorithm
+* Study algorithm
 * * *
 <!--
 **kkIIun/kkIIun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
