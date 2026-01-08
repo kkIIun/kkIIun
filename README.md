@@ -24,16 +24,25 @@
 ### 📝 Publications
 
 #### 2026
-- **[WACV2026] Unified Video Anomaly Detection Model for Detecting Different Anomaly Types** *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
-- **[Under Review / CVPR2026] Diversity-Driven Pseudo Anomaly Generation for Self-Supervised Video Anomaly Detection** *Kijung Lee, Youngwan Jo, Inpyo Hong, Sanghyun Park*
-- [WACV2026] AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM *Sunghyun Ahn, Youngwan Jo, Kijung Lee, Sein Kwon, Inpyo Hong, Sanghyun Park*
-- [SAC2026] GranQ: Granular Zero-Shot Quantization with Channel-Wise Activation Scaling in QAT *Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, Kijung Lee, Sanghyun Park*
+- **[WACV2026] Unified Video Anomaly Detection Model for Detecting Different Anomaly Types**
+  <br> *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
+  <br> [![GitHub](https://github.com/kkIIun/UniVAD)
+- **[Under Review / CVPR2026] Diversity-Driven Pseudo Anomaly Generation for Self-Supervised Video Anomaly Detection**
+  <br> *Kijung Lee, Youngwan Jo, Inpyo Hong, Sanghyun Park*
+  <br> [![GitHub](https://github.com/kkIIun/Diversity-Driven-Pseudo-Anomaly-Generation-for-Self-Supervised-Video-Anomaly-Detection)
+- [WACV2026] AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM
+  <br> *Sunghyun Ahn, Youngwan Jo, Kijung Lee, Sein Kwon, Inpyo Hong, Sanghyun Park*
+- [SAC2026] GranQ: Granular Zero-Shot Quantization with Channel-Wise Activation Scaling in QAT
+  <br> *Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, Kijung Lee, Sanghyun Park*
 
 #### 2025
-- **[PAKDD2025] MDVAD: Multimodal Diffusion for Video Anomaly Detection** *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
+- **[PAKDD2025] MDVAD: Multimodal Diffusion for Video Anomaly Detection**
+  <br> *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
+  <br> [![GitHub](https://github.com/kkIIun/MDVAD)
 
 #### 2024
-- [ACCV2024] VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection *Sunghyun Ahn, Youngwan Jo, Kijung Lee, Sanghyun Park*
+- [ACCV2024] VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection
+  <br> *Sunghyun Ahn, Youngwan Jo, Kijung Lee, Sanghyun Park*
 
 <br>
 
