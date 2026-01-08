@@ -26,10 +26,10 @@
 #### 2026
 - **[WACV2026] Unified Video Anomaly Detection Model for Detecting Different Anomaly Types**
   <br> *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
-  <br> [![GitHub](https://github.com/kkIIun/UniVAD)]
+  <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkIIun/UniVAD)
 - **[Under Review / CVPR2026] Diversity-Driven Pseudo Anomaly Generation for Self-Supervised Video Anomaly Detection**
   <br> *Kijung Lee, Youngwan Jo, Inpyo Hong, Sanghyun Park*
-  <br> [![GitHub](https://github.com/kkIIun/Diversity-Driven-Pseudo-Anomaly-Generation-for-Self-Supervised-Video-Anomaly-Detection)]
+  <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkIIun/Diversity-Driven-Pseudo-Anomaly-Generation-for-Self-Supervised-Video-Anomaly-Detection)
 - [WACV2026] AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM
   <br> *Sunghyun Ahn, Youngwan Jo, Kijung Lee, Sein Kwon, Inpyo Hong, Sanghyun Park*
 - [SAC2026] GranQ: Granular Zero-Shot Quantization with Channel-Wise Activation Scaling in QAT
@@ -38,7 +38,7 @@
 #### 2025
 - **[PAKDD2025] MDVAD: Multimodal Diffusion for Video Anomaly Detection**
   <br> *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
-  <br> [![GitHub](https://github.com/kkIIun/MDVAD)]
+  <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkIIun/MDVAD)
 
 #### 2024
 - [ACCV2024] VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection
