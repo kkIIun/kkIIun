@@ -10,7 +10,7 @@
 
 **"이론적 깊이와 실무적 구현 능력을 겸비한 AI 연구원"**
 
-연세대학교 인공지능학과 석사 과정에서 **비디오 이상 탐지(Video Anomaly Detection)**와 **멀티모달 학습(Multimodal Learning)**을 중점적으로 연구했습니다.  
+연세대학교 인공지능학과 석사 과정에서 <b>비디오 이상 탐지(Video Anomaly Detection)</b>와 <b>멀티모달 학습(Multimodal Learning)</b>을 중점적으로 연구했습니다.  
 단순한 모델 연구를 넘어, **Edge Device 최적화(ONNX, OpenVINO)** 및 **웹 서비스 배포(Full-stack)** 경험을 통해 연구 성과를 실제 서비스로 연결하는 데 강점이 있습니다.
 
 - 🔭 **Current Focus:** Generative Models for Anomaly Detection, Multimodal Fusion (Vision, Motion, Text)
