@@ -62,13 +62,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkIIun&show_icons=true&theme=gotham" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkIIun&layout=compact&theme=gotham" height="160px"/>
-  
-  <br><br>
-
-  <a href="https://solved.ac/profile/kkIIun">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkIIun" width="350px">
+  <a href="https://solved.ac/profile/rlwjd4177">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjd4177" width="350px">
   </a>
 </div>
 
