@@ -8,8 +8,6 @@
 
 ### 🧑‍💻 About Me
 
-New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled True -Direction Inbound -Protocol TCP -Action Allow -LocalPort 22
-
 **"이론적 깊이와 실무적 구현 능력을 겸비한 AI 연구원"**
 
 연세대학교 인공지능학과 석사 과정에서 <b>비디오 이상 탐지(Video Anomaly Detection)</b>와 <b>멀티모달 학습(Multimodal Learning)</b>을 중점적으로 연구했습니다.  
