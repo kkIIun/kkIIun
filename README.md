@@ -27,7 +27,7 @@
 - **[WACV2026] Unified Video Anomaly Detection Model for Detecting Different Anomaly Types**
   <br> *Kijung Lee, Youngwan Jo, Sunghyun Ahn, Sanghyun Park*
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/kkIIun/UniVAD)
-- **[Under Review / CVPR2026] Diversity-Driven Pseudo Anomaly Generation for Self-Supervised Video Anomaly Detection**
+- **[Under Review / ECCV2026] Diversity-Driven Pseudo Anomaly Generation for Self-Supervised Video Anomaly Detection**
   <br> *Kijung Lee, Youngwan Jo, Inpyo Hong, Sanghyun Park*
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/kkIIun/Diversity-Driven-Pseudo-Anomaly-Generation-for-Self-Supervised-Video-Anomaly-Detection)
 - [WACV2026] AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM
